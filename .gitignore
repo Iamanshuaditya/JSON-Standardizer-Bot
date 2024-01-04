@@ -1,2 +1,6 @@
 input_data.json
 output_data.json
+filtered.json
+new.json
+node_module/
+node_module
